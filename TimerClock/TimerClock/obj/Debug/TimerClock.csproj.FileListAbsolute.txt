@@ -1,0 +1,45 @@
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe.config
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.pdb
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\bin\Debug\CircularProgressBar.dll
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\bin\Debug\WinFormAnimation.dll
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Form1.resources
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Properties.Resources.resources
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.GenerateResource.cache
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.CoreCompileInputs.cache
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.CopyComplete
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.exe
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.pdb
+G:\CODES\FreeLancing\C#\Project2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csprojAssemblyReference.cache
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe.config
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.pdb
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\CircularProgressBar.dll
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\WinFormAnimation.dll
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Form1.resources
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Properties.Resources.resources
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.GenerateResource.cache
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.exe
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.pdb
+G:\CODES\FreeLancing\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csprojResolveAssemblyReference.cache
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe.config
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.exe
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.pdb
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.pdb
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\bin\Debug\CircularProgressBar.dll
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\bin\Debug\WinFormAnimation.dll
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csprojResolveAssemblyReference.cache
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Form1.resources
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Properties.Resources.resources
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.GenerateResource.Cache
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe.config
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.exe
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.pdb
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.exe
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\TimerClock.pdb
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\CircularProgressBar.dll
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\bin\Debug\WinFormAnimation.dll
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Form1.resources
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.Properties.Resources.resources
+C:\Users\Abeel Muhammad\Documents\Visual Studio 2013\Projects\C#\Project 2 Timer\TimerClock\TimerClock\obj\Debug\TimerClock.csproj.GenerateResource.Cache
